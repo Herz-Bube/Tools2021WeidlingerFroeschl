@@ -10,6 +10,7 @@ public class dummy {
 
 	public void thisIsANewMethod() { 
 		System.out.println("Hopefully producing a conflict");
+		System.out.println("Bug");
 	}
 
 }
