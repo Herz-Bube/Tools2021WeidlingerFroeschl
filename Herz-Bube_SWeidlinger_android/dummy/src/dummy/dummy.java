@@ -6,5 +6,7 @@ public class dummy {
 		// TODO Auto-generated method stub
 
 	}
-
+	
+	public void thisIsANewMethod() {		
+	}
 }
