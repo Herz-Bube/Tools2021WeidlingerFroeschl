@@ -7,6 +7,8 @@ public class dummy {
 		String name = "Sebastian";
 	}
 	
-	public void thisIsANewMethod() { }
+	public void thisIsANewMethod() { 
+		System.out.println("Hopefully producing a conflict");
+	}
 
 }
