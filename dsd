@@ -1,0 +1,30 @@
+* [33mbe10ade[m[33m ([m[1;36mHEAD -> [m[1;32mrequestBranch[m[33m)[m PullRequest
+*   [33m5bb770c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m Merge branch 'bugfix'
+[32m|[m[33m\[m  
+[32m|[m * [33m05a01ae[m[33m ([m[1;31morigin/bugfix[m[33m)[m Adding third line of code!
+[32m|[m * [33m57e3ebe[m Adding line two of the code
+[32m|[m * [33mea3f162[m Adding first line of code!
+* [33m|[m [33m1aa9db5[m added another LoC
+* [33m|[m [33m9142812[m changed code
+[33m|[m[33m/[m  
+* [33mb888ab5[m Resolving conflics (removing a method)
+*   [33m710593d[m Merge branch 'master' of https://github.com/Herz-Bube/Tools2021WeidlingerFroeschl
+[34m|[m[35m\[m  
+[34m|[m * [33m766945e[m added code to the empty method
+* [35m|[m [33mc77820c[m Saving my changes
+[35m|[m[35m/[m  
+*   [33m9ba683b[m Merge branch 'master' of https://github.com/Herz-Bube/Tools2021WeidlingerFroeschl
+[36m|[m[1;31m\[m  
+[36m|[m * [33maab020c[m Trying once again
+* [1;31m|[m [33m32070d1[m new method added, again
+[1;31m|[m[1;31m/[m  
+* [33mcee0d58[m created new dummy file
+*   [33mbf6a8e9[m Merge branch 'master' of https://github.com/Herz-Bube/Tools2021WeidlingerFroeschl
+[1;32m|[m[1;33m\[m  
+[1;32m|[m * [33m2fffc66[m Fixing more mistakes
+[1;32m|[m * [33m17cdad7[m This is my new code! :)
+* [1;33m|[m [33mf46315f[m new method added to code
+[1;33m|[m[1;33m/[m  
+* [33mcaa0cba[m sh*t happens
+* [33m774f4a1[m this is my commit
+* [33m6a4b3ad[m this is my first commit
